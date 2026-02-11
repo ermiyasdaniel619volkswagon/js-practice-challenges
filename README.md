@@ -156,4 +156,40 @@ This project trains students to:
 
 ---
 
+/////////////////Additional thing you must know!//////////////////////
+👨‍💻 Contributor: How to Send Changes
+
+Phase 1: Get the repo you want to fork
+
+Fork: Click the "Fork" button on GitHub. (Now you have your own copy online).
+Clone: Copy the code to your computer.
+git clone <your-url>
+cd <folder-name>
+
+Phase 2: Do the Work
+
+Branch: Create a "side room" to work in so you don't mess up the main code.
+git checkout -b my-work
+Save: Once you've typed your code, save it.
+git add .
+git commit -m "Fixed the header"
+
+Phase 3: Send it Back
+Push: Upload your work from your computer back to GitHub.
+git push origin my-work
+PR: Go to GitHub and click the big green "Compare & pull request" button to ask the owner to look at your work.
+
+👑 Owner: How to Merge the Work
+
+1. Review
+   The owner gets a notification. They go to the "Pull requests" tab in their repository and click on your PR to see what you changed.
+
+2. The Big Green Button
+   If the code looks good, the owner scrolls to the bottom. They will see a big green button that says: "Merge pull request"
+
+3. Confirm
+   They click "Confirm merge".
+
+✅ Result: Your code is now officially part of their "Main" project!
+
 Happy Coding! 💻🔥
