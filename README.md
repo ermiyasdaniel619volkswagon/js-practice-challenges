@@ -165,6 +165,7 @@ Fork: Click the "Fork" button on GitHub. (Now you have your own copy online).
 Clone: Copy the code to your computer.
 git clone <your-url>
 cd <folder-name>
+git remote add upstream <original-repo-url>
 
 Phase 2: Do the Work
 
