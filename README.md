@@ -156,7 +156,7 @@ This project trains students to:
 
 ---
 
-/////////////////Additional thing you must know!//////////////////////
+-----------------Additional thing you must know!-------------------
 👨‍💻 Contributor: How to Send Changes
 
 Phase 1: Get the repo you want to fork
