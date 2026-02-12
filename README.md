@@ -162,7 +162,7 @@ This project trains students to:
 Phase 1: Get the repo you want to fork
 
 Fork: Click the "Fork" button on GitHub. (Now you have your own copy online).
-Clone: Copy the code to your computer.
+Clone: Copy the code to your computer
 git clone <your-url>
 cd <folder-name>
 git remote add upstream <original-repo-url>
