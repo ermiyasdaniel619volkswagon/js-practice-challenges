@@ -176,7 +176,7 @@ git commit -m "Fixed the header"
 
 Phase 3: Send it Back
 Push: Upload your work from your computer back to GitHub.
-git push origin my-work (git push --set-upstream origin mywork)
+git push origin my-work /git push --set-upstream origin mywork/
 PR: Go to GitHub and click the big green "Compare & pull request" button to ask the owner to look at your work.
 
 👑 Owner: How to Merge the Work
