@@ -165,6 +165,7 @@ Fork: Click the "Fork" button on GitHub. (Now you have your own copy online).
 Clone: Copy the code to your computer.
 git clone <your-url>
 cd <folder-name>
+git remote add upstream <original-repo-url>
 
 Phase 2: Do the Work
 
@@ -176,7 +177,7 @@ git commit -m "Fixed the header"
 
 Phase 3: Send it Back
 Push: Upload your work from your computer back to GitHub.
-git push origin my-work
+git push origin my-work /git push --set-upstream origin mywork/
 PR: Go to GitHub and click the big green "Compare & pull request" button to ask the owner to look at your work.
 
 👑 Owner: How to Merge the Work
